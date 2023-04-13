@@ -55,8 +55,8 @@ Portugués avanzado | Inglés intermedio
 <br>
 <br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pablosergiovg&label=Profile%20views&color=0e75b6&style=flat" alt="pablosergiovg" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=pablosergiovg&label=Profile%20views&color=0e75b6&style=flat" alt="pablosergiovg" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablosergiovg&show_icons=true&locale=en&layout=compact&theme=dark" alt="pablosergiovg" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pablosergiovg&show_icons=true&locale=en&layout=compact&theme=dark" alt="pablosergiovg" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosergiovg&show_icons=true&locale=en&theme=dark" alt="pablosergiovg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosergiovg&show_icons=true&locale=en&theme=dark" alt="pablosergiovg" /></p>
