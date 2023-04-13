@@ -1,9 +1,5 @@
-<h1 align="left">Hola!👋 soy Pablo!</h1>
-<h3 align="left" display="in-line">Desarrollador full-stack</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="right">
-  <p align="right">
+<p align="left">
+  <p align="left">
     <a href="https://www.linkedin.com/in/pablo-viera-a703a9a3/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
@@ -18,6 +14,12 @@
     </a>
   </p>
 </p>
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/106022695/231650846-baa0501a-1b4b-4b56-af66-9fd3c5f8ecc1.jpg">
+<h1 align="left">Hola!👋 soy Pablo!</h1>
+<h3 align="left" display="in-line">Desarrollador full-stack</h3>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablosergiovg&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
