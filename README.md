@@ -17,12 +17,14 @@
 <h1 align="left">Hola!👋 soy Pablo!</h1>
 <h2 align="left" display="in-line">Desarrollador full-stack</h2>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=pablosergiovg&label=Profile%20views&color=0e75b6&style=flat" alt="pablosergiovg" /></p>
-
-
-
-🔭 Actualmente estoy trabajando en [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01)
-
+### Sobre mi:
+Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a la programación un día que decidí aprender a crear videojuegos con mis personajes animados(me gusta hacer animaciones), desde entonces me enganché muchísimo con la programación, es otro arte que desconocía(pensaba que era un mundo cuadrado y aburrido, pero es todo lo contrario, me fascina). Actualmente terminé de cursar el primer año de la carrera Certified Tech Developer de Digital House, en conjunto con Globant y Mercadolibre, en el segundo año haré la especialidad en Frontend, pero no pienso descuidar el Backend, también tiene su atractivo 👌.
+<br>
+<br>
+<br>
+👨🏽‍💻 Actualmente trabajando en el proyecto [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01)
+<br>
+<br>
 ### Skills:
 
 - **Frontend:**<br>
@@ -44,11 +46,17 @@ Portugués avanzado | Inglés intermedio
 ### Otros conocimientos:<br>
 * Git/GitHub/GitLab | VS Code | InteLliJ IDEA | Photoshop | Illustrator | Animate | Premiere Pro | After Effects
 
-⚡ Dato curioso: **soy famoso en internet**
+<br>
+
+🌱 Que sigue: aprender Typescript, stack MERN y sobre todo lograr entrar a este mercado laboral 🚀.
+
+⚡ Dato random: soy famoso en internet.
 
 <br>
 <br>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pablosergiovg&label=Profile%20views&color=0e75b6&style=flat" alt="pablosergiovg" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablosergiovg&show_icons=true&locale=en&layout=compact&theme=dark" alt="pablosergiovg" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosergiovg&show_icons=true&locale=en&theme=dark" alt="pablosergiovg" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosergiovg&show_icons=true&locale=en&theme=dark" alt="pablosergiovg" /></p>
