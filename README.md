@@ -1,8 +1,16 @@
-### Hola!👋 soy Pablo!
+<div>
+<h2>Hola!👋 soy Pablo!</h2> 
+<h3>🐱‍💻 Soy desarrollador full-stack.</h3>
+</div>
 
-- 🐱‍💻 Soy desarrollador full-stack.
-- 🔭 Estoy trabajando actualmente en 
-[!(https://img.shields.io/badge/-DigitalBooking-orange)](https://github.com/onimur)
+🔭 Estoy trabajando actualmente en [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01).
+
+- Prueba [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=for-the-badge)](http://digitalbooking.ddns.net/)
+- Prueba [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat)](http://digitalbooking.ddns.net/)
+- Prueba [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/)
+- Prueba [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=plastic)](http://digitalbooking.ddns.net/)
+
+
 - 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
