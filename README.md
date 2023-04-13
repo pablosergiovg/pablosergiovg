@@ -1,15 +1,4 @@
-### Hola!👋 yo soy Pablo!
-
-**Puedes encontrarme por aquí también:**
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-viera-a703a9a3/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pablosergiovg@gmail.com)
-[![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Github&logoColor=white)](https://gitlab.ctd.academy/pablosvg)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pablosergiovg)
-
-<!--
-**pablosergiovg/pablosergiovg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hola!👋 soy Pablo!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,7 +8,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+**Puedes encontrarme por aquí también:**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-viera-a703a9a3/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pablosergiovg@gmail.com)
+[![Gitlab](https://img.shields.io/badge/-Gitlab-000?style=flat&logo=Github&logoColor=white)](https://gitlab.ctd.academy/pablosvg)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pablosergiovg)
+
 
 ```js
 const yo = {
