@@ -1,5 +1,5 @@
 <div>
-<h2>Hola!👋 soy Pablo!</h2> 
+<h2 color:"red">Hola!👋 soy Pablo!</h2> 
 <h3>🐱‍💻 Soy desarrollador full-stack.</h3>
 </div>
 
