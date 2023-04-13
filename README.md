@@ -1,8 +1,8 @@
 ### Hola!👋 soy Pablo!
 
 - 🐱‍💻 Soy desarrollador full-stack.
-- 🔭 Estoy trabajando actualmente en https://img.shields.io/badge/-DigitalBooking-orange
-(https://img.shields.io/badge/-DigitalBooking-orange)](https://github.com/onimur)
+- 🔭 Estoy trabajando actualmente en 
+[(https://img.shields.io/badge/-DigitalBooking-orange)](https://github.com/onimur)
 - 🌱 I’m currently learning ...
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
