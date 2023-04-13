@@ -1,5 +1,6 @@
 <h1 align="left">Hola!👋 soy Pablo!</h1>
 <h3 align="left" display="in-line">Desarrollador full-stack</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="right">
   <p align="right">
@@ -20,30 +21,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablosergiovg&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
-- 🔭 I’m currently working on **Buckoid Android App**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
+- 🔭 Estoy trabajando actualmente en [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01)
+- 🌱 I’m currently learning **React ts**
 - 📫 How to reach me **rishavchanda0@gmail.com**
+- ⚡ Dato curioso **soy famoso en internet**
 
-- ⚡ Fun fact **I am Funny**
-
-
-🔭 Estoy trabajando actualmente en [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01).
-
-
-
-- 🌱 I’m currently learning ...
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about ...
-📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablosergiovg&show_icons=true&locale=en&layout=compact&theme=dark" alt="pablosergiovg" /></p>
