@@ -21,10 +21,16 @@
 Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a la programación un día que decidí aprender a crear videojuegos con mis personajes animados(me gusta hacer animaciones), desde entonces me enganché muchísimo con la programación, es otro arte que desconocía(pensaba que era un mundo cuadrado y aburrido, pero es todo lo contrario, me fascina). Actualmente terminé de cursar el primer año de la carrera Certified Tech Developer de Digital House, en conjunto con Globant y Mercadolibre, en el segundo año haré la especialidad en Frontend, pero no pienso descuidar el Backend, también tiene su atractivo 👌.
 <br>
 <br>
+<a href="https://drive.google.com/file/d/17iZUyQ8NnvIj5Yb79OtVF7kcRi9TPqDp/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Bajar CV Pablo Viera-%231DA1F2.svg?&style=for-the-badge&logo=Pdf&logoColor=white&color=071A2C" alt="Gmail"/>
+</a>
+<br>
+<br>
 <br>
 👨🏽‍💻 Actualmente trabajando en el proyecto [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01)
 <br>
 <br>
+
 ### Skills:
 
 - **Frontend:**<br>
@@ -50,7 +56,7 @@ Portugués avanzado | Inglés intermedio
 
 🌱 Que sigue: aprender Typescript, stack MERN y sobre todo lograr entrar a este mercado laboral 🚀.
 
-⚡ Dato random: soy famoso en internet.
+⚡ Dato random: juego futbol sala.
 
 <br>
 <br>
