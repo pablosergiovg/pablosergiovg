@@ -1,5 +1,5 @@
-<p align="left">
-  <p align="left">
+<p align="right">
+  <p align="right">
     <a href="https://www.linkedin.com/in/pablo-viera-a703a9a3/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
