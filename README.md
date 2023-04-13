@@ -14,9 +14,8 @@
     </a>
   </p>
 </p>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/106022695/231650846-baa0501a-1b4b-4b56-af66-9fd3c5f8ecc1.jpg">
 <h1 align="left">Hola!👋 soy Pablo!</h1>
-<h3 align="left" display="in-line">Desarrollador full-stack</h3>
+<h2 align="left" display="in-line">Desarrollador full-stack</h2>
 
 
 
@@ -33,4 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablosergiovg&show_icons=true&locale=en&layout=compact&theme=dark" alt="pablosergiovg" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosergiovg&show_icons=true&locale=en&theme=dark" alt="pablosergiovg" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosergiovg&show_icons=true&locale=en&theme=dark" alt="pablosergiovg" /></p>
