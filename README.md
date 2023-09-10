@@ -28,9 +28,9 @@ Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a
 <br>
 <br>
 <br>
-👨🏽‍💻 Actualmente trabajando en [![GSOFT](https://img.shields.io/badge/GSOFT-green?style=flat-square)](https://www.gsoft.com.uy/) como desarrollador en el area de medios de pagos
+👨🏽‍💻 Actualmente trabajando en [![GSOFT](https://img.shields.io/badge/GSOFT-green?style=flat-square)](https://www.gsoft.com.uy/) como desarrollador en el area de medios de pagos.
 <br>
-👨🏽‍💻 Proyecto [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) como desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01)
+👨🏽‍💻 Proyecto [![DigitalBooking](https://img.shields.io/badge/DigitalBooking-orange?style=flat-square)](http://digitalbooking.ddns.net/) desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://gitlab.ctd.academy/ctd/hispanos/proyecto-integrador-1/proyecto-integrador-0223/0522ft-c3/grupo-01)
 <br>
 👨🏽‍💻 Proyecto anterior [![DH Odonto](https://img.shields.io/badge/DH-Odonto-grey?style=flat-square)](https://pf-front3.vercel.app/) desarrollador frontend [![repositorio](https://img.shields.io/badge/repositorio-black?style=flat-square&logo=github)](https://github.com/pablosergiovg/Clinica-Odontologica/tree/main/src)
 <br>
