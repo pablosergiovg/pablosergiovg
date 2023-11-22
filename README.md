@@ -19,7 +19,7 @@
 
 ### Sobre mi:
 
-Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a la programación un día que decidí aprender a crear videojuegos con mis personajes animados(me gusta hacer animaciones), desde entonces me enganché muchísimo con la programación, es otro arte que desconocía(pensaba que era un mundo cuadrado y aburrido, pero es todo lo contrario, me fascina). Actualmente terminé de cursar el primer año de la carrera Certified Tech Developer de Digital House, en conjunto con Globant y Mercadolibre, en el segundo año haré la especialidad en Frontend, pero no pienso descuidar el Backend, también tiene su atractivo 👌.
+Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a la programación un día que decidí aprender a crear videojuegos con mis personajes animados(me gusta hacer animaciones), desde entonces me enganché muchísimo con la programación, es otro arte que desconocía(pensaba que era un mundo cuadrado y aburrido, pero es todo lo contrario, me fascina). Actualmente estoy trabajando como desarrollador y estudiando, estoy cursando el segundo año de la carrera Certified Tech Developer de Digital House, en conjunto con Globant y Mercadolibre, estoy haciendo la especialidad de Frontend 👌.
 <br>
 <br>
 <a href="https://drive.google.com/file/d/17iZUyQ8NnvIj5Yb79OtVF7kcRi9TPqDp/view?usp=sharing" target="_blank">
@@ -59,7 +59,7 @@ Portugués avanzado | Inglés intermedio
 
 <br>
 
-🌱 Que sigue: aprender Typescript, stack MERN y sobre todo lograr entrar a este mercado laboral 🚀.
+🌱 Que sigue: seguir aprendiendo 🚀.
 
 ⚡ Dato random: juego futbol sala.
 
