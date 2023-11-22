@@ -39,13 +39,13 @@ Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a
 ### Skills:
 
 - **Frontend:**<br>
-HTML | CSS | Javascript | React | Axios | Boostrap | Material UI | Postman | UX/UI
+HTML | CSS | Javascript | TypeScript | React | Axios | Boostrap | Material UI | Postman | UX/UI
 
 - **Backend:**<br>
-Java | MySQL | UML | Patrones | Spring Boot | REST APIs | JWT | Swagger | Log4j | Junit | MockMVC | Dockers
+Java | C/C++ | MySQL | Oracle | ISO8583 | UML | Patrones | Spring Boot | REST APIs | JWT | Swagger | Log4j | Junit | MockMVC | Dockers
  
 - **Metodologías Ágiles:**<br>
-Lean | Kanban | Scrum | Design Thinking
+Lean | Kanban | Scrum | Design Thinking | Jira/Trello/Monday
 
 - **Idiomas:**<br>
 Portugués avanzado | Inglés intermedio
@@ -55,7 +55,7 @@ Portugués avanzado | Inglés intermedio
 
 
 ### Otros conocimientos:<br>
-* Git/GitHub/GitLab | VS Code | InteLliJ IDEA | Photoshop | Illustrator | Animate | Premiere Pro | After Effects
+* Git/GitHub/GitLab | VS Code | InteLliJ IDEA
 
 <br>
 
