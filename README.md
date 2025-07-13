@@ -24,7 +24,7 @@ Durante estos últimos 2 años he tenido la oportunidad de trabajar en el apasio
 Me considero una persona versátil: disfruto tanto del desarrollo frontend como backend, y siempre busco la forma de aportar lo mejor de mí, con compromiso y muchas ganas de crecer. Me apasiona la tecnología y no tengo miedo de salir de mi zona de confort si eso significa seguir aprendiendo. Disfruto trabajar en equipo, asumir nuevos retos y seguir sumando experiencia.
 <br>
 <br>
-<a href="https://drive.google.com/file/d/1GL6-cphnop0C_MzMbpPQPUMmi8p0cVoi/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/drive/u/0/folders/1jMN-Ce4CFUhM5lvtJKs-HA_PToA07MbJ/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Bajar CV Pablo Viera-%231DA1F2.svg?&style=for-the-badge&logo=Pdf&logoColor=white&color=071A2C" alt="Gmail"/>
 </a>
 <br>
