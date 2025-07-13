@@ -63,7 +63,7 @@ Portugués avanzado | Inglés intermedio
 
 🌱 Que sigue: seguir aprendiendo 🚀.
 
-⚡ Dato random: juego futbol sala.
+⚡ Hobbies: Desarrollor de videojuegos indi GODOT-GDSCRIPT | Futbol
 
 <br>
 <br>
