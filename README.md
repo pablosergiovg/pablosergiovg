@@ -19,7 +19,9 @@
 
 ### Sobre mi:
 
-Soy una persona sumamente curiosa, deseoso de saber más. Llego de paracaídas a la programación un día que decidí aprender a crear videojuegos con mis personajes animados(me gusta hacer animaciones), desde entonces me enganché muchísimo con la programación, es otro arte que desconocía(pensaba que era un mundo cuadrado y aburrido, pero es todo lo contrario, me fascina). Actualmente estoy trabajando como desarrollador y estudiando, estoy cursando el segundo año de la carrera Certified Tech Developer de Digital House, en conjunto con Globant y Mercadolibre, estoy haciendo la especialidad de Frontend 👌.
+Durante estos últimos 2 años he tenido la oportunidad de trabajar en el apasionante mundo de medios de pago, en el desarrollo de terminales físicas con C/C++, backend con Java y Spring Boot, y frontend con React. Esto me permitió ampliar mis conocimientos y enfrentar desafíos reales que me ayudaron a crecer tanto técnica como personalmente.
+<br>
+Me considero una persona versátil: disfruto tanto del desarrollo frontend como backend, y siempre busco la forma de aportar lo mejor de mí, con compromiso y muchas ganas de crecer. Me apasiona la tecnología y no tengo miedo de salir de mi zona de confort si eso significa seguir aprendiendo. Disfruto trabajar en equipo, asumir nuevos retos y seguir sumando experiencia.
 <br>
 <br>
 <a href="https://drive.google.com/file/d/1GL6-cphnop0C_MzMbpPQPUMmi8p0cVoi/view?usp=sharing" target="_blank">
